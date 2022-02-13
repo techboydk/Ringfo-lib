@@ -1,2 +1,2 @@
 # music-img
-this the library for Ringfo ringtones and wallpapers.
+This the library for Ringfo - ringtones and wallpapers.
